@@ -1,6 +1,5 @@
 {
-  "colors": [
-     {
+  "colors": {
   "primary_color": "#42bfc1",
   "input_focus_color": "#42bfc1",
   "background_color": "#f6f6f6",
@@ -21,8 +20,7 @@
   "orange": "#ff6d54",
   "dark_orange": "#faa61b",
   "light_yellow": "#F9F4C9"
-}
-  ],
+},
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
